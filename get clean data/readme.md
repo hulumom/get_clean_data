@@ -2,13 +2,13 @@
 
 ## About the script
 
-"run_Analysis.R" extracts  a dataset from the UCI Human Activity Recognition data set which is available at:
+"run_analysis.R" extracts  a dataset from the UCI Human Activity Recognition data set which is available at:
 
 [http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip](http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip)
 
 * Download and Unzip data file.
 
-* Copy the "run_Analysis.R" to the folder having the dataset.
+* Copy the "run_analysis.R" to the folder having the dataset.
 
 * Run the script.
 
